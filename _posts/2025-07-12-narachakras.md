@@ -18,12 +18,12 @@ Mamami smiled, her eyes twinkling brighter than ever. "That, my little sprout," 
 
 Nara giggled. "Rainbow lights? Inside me? Where?"
 
-![second](_images/book1/chakra.png)
+![second](/images/book1/chakra.png)
 "All along your spine, like a secret ladder of sparkling jewels," Mamami whispered. "They are called chakras, and they help you be strong, creative, loving, and wise. The first one is at the very bottom of your spine, and it’s a beautiful, glowing red, like a ripe strawberry. This is your **Root Chakra**."
 
 Mamami told Nara to take off her shoes and press her bare feet into the soft grass. "Imagine roots growing from your feet, deep, deep into the warm earth," she said. "This red light helps you feel safe and strong, like a big old tree."
 
-![first](_images/book1/park.png)
+![first](/images/book1/park.png)
 
 Nara closed her eyes and imagined it. A warm, steady feeling spread up from her feet, and she felt as solid and calm as the ancient oak tree at the end of the garden. She could do anything!
 
@@ -31,7 +31,7 @@ The next day, Nara was trying to draw a picture of her cat, Mittens, but she cou
 
 Mamami came over and gave her a gentle hug. "It sounds like your orange light needs a little polish," she said. "Just below your belly button is your **Sacral Chakra**. It glows a bright, happy orange, like a juicy peach, and it's where all your creativity lives."
 
-![third](_images/book1/dance.png)
+![third](/images/book1/dance.png)
 
 Mamami put on some music and told Nara to forget about drawing and just dance. As Nara swirled and twirled, she imagined a warm, orange light spinning in her tummy. When she went back to her paper, her hand moved effortlessly. She wasn't just drawing Mittens; she was painting with swirls of orange and yellow, creating the most vibrant, playful cat she had ever seen. She had created something extraordinary!
 
@@ -56,4 +56,4 @@ And finally, the **Crown Chakra**, a shimmering, violet-white light at the very 
 
 Sometimes, Nara and her Mamami would sit quietly together, imagining all their rainbow lights glowing brightly, from the steady red at their feet to the sparkling violet at their heads. In those moments, Nara felt connected to the whole wide world. She knew she wasn't just a little girl; she was a rainbow of light, full of courage, creativity, and love. And that was the most extraordinary thing of all.
 
-![last](_images/book1/meditate.png)
+![last](/images/book1/meditate.png)
